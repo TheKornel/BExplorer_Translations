@@ -342,35 +342,35 @@
     <system:String x:Key="txtBrowse">Tallózás...</system:String>
     <!-- NEW STRINGS -->
     <!-- Navigation toolbar -->
-    <system:String x:Key="txtBack">Back</system:String>
+    <system:String x:Key="txtBack">Vissza</system:String>
     <system:String x:Key="txtForward">Forward</system:String>
     <system:String x:Key="txtLevelUp">Level Up</system:String>
-    <system:String x:Key="txtSearchLabel">Search:</system:String>
+    <system:String x:Key="txtSearchLabel">Keresés:</system:String>
     <!-- Miscellaneous strings -->
-    <system:String x:Key="txtApply">Apply</system:String>
-    <system:String x:Key="txtLocation">Location</system:String>
-    <system:String x:Key="txtEmptyRBin">Empty Recycle Bin</system:String>
-    <system:String x:Key="txtYes">Yes</system:String>
-    <system:String x:Key="txtNo">No</system:String>
-    <system:String x:Key="txtType">Type</system:String>
+    <system:String x:Key="txtApply">Alkalmaz</system:String>
+    <system:String x:Key="txtLocation">Hely</system:String>
+    <system:String x:Key="txtEmptyRBin">Üres a lomotár</system:String>
+    <system:String x:Key="txtYes">Igen</system:String>
+    <system:String x:Key="txtNo">Nem</system:String>
+    <system:String x:Key="txtType">Típus</system:String>
     <!-- (file type) -->
-    <system:String x:Key="txtFile">file</system:String>
-    <system:String x:Key="txtShortcut">shortcut</system:String>
-    <system:String x:Key="txtFolder">folder</system:String>
+    <system:String x:Key="txtFile">fájl</system:String>
+    <system:String x:Key="txtShortcut">parancsikon</system:String></system:String>
+    <system:String x:Key="txtFolder">mappa</system:String>
     <!-- (The folder is empty. (subject)) -->
-    <system:String x:Key="txtAccusativeFolder">folder</system:String>
+    <system:String x:Key="txtAccusativeFolder">mappa</system:String>
     <!-- (Do you want to delete the folder? (direct object))-->
-    <system:String x:Key="txtRecycleBin">Recycle Bin</system:String>
+    <system:String x:Key="txtRecycleBin">Lomtár</system:String>
     <system:String x:Key="txtSeveralItems">several items</system:String>
     <system:String x:Key="txtConfirmDeleteObject">Are you sure you want to move this {0} to {1}?</system:String>
     <system:String x:Key="txtConfirmRemoveObject">Are you sure you want to delete this {0} permanently?</system:String>
     <system:String x:Key="txtConfirmDeleteObjects">Are you sure you want to move these {0} items to {1}?</system:String>
     <system:String x:Key="txtConfirmRemoveObjects">Are you sure you want to delete these {0} items permanently?</system:String>
-    <system:String x:Key="txtDeleteSeveralItems">Delete items</system:String>
+    <system:String x:Key="txtDeleteSeveralItems">Elemek törlése</system:String>
     <!-- View tab -->
-    <system:String x:Key="btnConsoleCP">Console</system:String>
+    <system:String x:Key="btnConsoleCP">Konzol</system:String>
     <!-- File tab -->
-    <system:String x:Key="btnReportBugCP">Report a problem</system:String>
+    <system:String x:Key="btnReportBugCP">Probléma jelentése</system:String>
     <system:String x:Key="btnReportBugHCP">Report a problem, bug, or feature request</system:String>
     <!-- File tab - Options -->
     <system:String x:Key="chkUseCustomDialogsCP">Use custom file operation dialogs</system:String>
@@ -383,18 +383,18 @@
     <system:String x:Key="txtChooseFormat">Select which format to use:</system:String>
     <system:String x:Key="txtFormatExplanation">Each format has their own advantages and disadvantages, depending upon what you might need.</system:String>
     <system:String x:Key="txtChooseSpeed">Select a compression speed to use:</system:String>
-    <system:String x:Key="txtFaster">Faster</system:String>
-    <system:String x:Key="txtNormal">Normal</system:String>
-    <system:String x:Key="txtSlower">Slower</system:String>
-    <system:String x:Key="txtLarger">Larger file size</system:String>
-    <system:String x:Key="txtSmaller">Smaller file size</system:String>
+    <system:String x:Key="txtFaster">Gyorsan</system:String>
+    <system:String x:Key="txtNormal">Normálisan</system:String>
+    <system:String x:Key="txtSlower">Lassan</system:String>
+    <system:String x:Key="txtLarger">Nagy fájlméret/system:String>
+    <system:String x:Key="txtSmaller">Kicsi fájlméret </system:String>
     <system:String x:Key="txtArchiveName">Name of the archive:</system:String>
     <!-- Resize Image dialog -->
     <system:String x:Key="txtAspectRatio">Keep aspect ratio</system:String>
     <!-- Customize Quick Access Toolbar dialog -->
     <system:String x:Key="txtMoreCommands">More Commands</system:String>
     <system:String x:Key="txtAdd">Add</system:String>
-    <system:String x:Key="txtRemove">Remove</system:String>
+    <system:String x:Key="txtRemove">Eltávolítás</system:String>
     <system:String x:Key="txtMoveUp">Move Up</system:String>
     <system:String x:Key="txtMoveDown">Move Down</system:String>
     <system:String x:Key="txtCustomizeQAT">Customize Quick Access Toolbar</system:String>
